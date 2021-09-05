@@ -2,7 +2,7 @@ package one.digitalinnovation.digionebank
 
 class Pessoa {
     val nome: String ="Renildo Alves"
-    val cpf: String ="098.452.488-61"
+    val cpf: String ="094.452.448-33"
 
 }
 fun main(){
